@@ -1,6 +1,17 @@
 .top{
     background-color: #15616d;
+    color: #ffecd1;
 }
 .btn{
-    color: #78290f;
+    background-color: #78290f;
+    color: #ffecd1;
+}
+.btn:hover{
+    background-color: #001524;
+    color: #ffecd1;
+}
+.mid-sep{
+    display: grid;
+    justify-content: center;
+    margin-top: 4em;
 }
